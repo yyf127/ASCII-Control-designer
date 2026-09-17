@@ -9,6 +9,8 @@
 无需安装、无需构建，单个 HTML 文件即可运行。  
 拖拽摆放控件、用 SmartArt 画流程图、用层级树表达目录结构，最后一键导出纯文本字符画。
 
+> 🔗 **在线体验**：<https://yyf127.github.io/ASCII-Control-designer/>
+
 ---
 
 ## 📖 目录
@@ -45,8 +47,16 @@
 
 ## 🚀 快速开始
 
+### 在线使用
+
+直接访问：<https://yyf127.github.io/ASCII-Control-designer/>
+
+无需下载，打开即用。
+
+### 本地运行
+
 1. **下载**  
-   将仓库中的 `index.html` 保存到本地。
+   将仓库中的 `index.html`保存到本地。
 
 2. **打开**  
    双击文件，用任意现代浏览器打开。
@@ -307,5 +317,7 @@ SmartArt 按类别拆分为 5 个独立控件，每个类别只包含本类模�
 本项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
 
 ---
+
+🔗 **在线体验**：<https://yyf127.github.io/ASCII-Control-designer/>
 
 如果这个项目对你有帮助，欢迎点个 ⭐ Star 支持一下！
